@@ -121,7 +121,7 @@
 	}
 	.btn-primary {
 		margin-left: -10px;
-		
+		color: #fff;
 	}
 	tbody {
 		background-color: white;
@@ -179,13 +179,12 @@
 		padding: 3px 72px;
 	    font-size: 12px;
 	    line-height: 2.5;
-	    border-radius: 6px;
 	    margin-top: -31px;
 	    margin-bottom: -35px;
 	}
    	.form-inline {
 		margin-top: -30px;
-		box-shadow: 0px 0px 130px -20px;
+		box-shadow: -50px 5px 60px -16px;
 	}
 	p {
 		margin-bottom: 40px;
@@ -204,20 +203,21 @@
 		list-style: none;
 	}
 	.table {
-    width: 100%;
-    max-width: 100%;
-    margin-bottom: 20px;
-    box-shadow: 0px 0px 10px -5px;
+	    width: 100%;
+	    max-width: 100%;
+	    margin-bottom: 20px;
+	    box-shadow: 0px 0px 10px -5px;
     }
     .good {
     	margin-bottom: 50px;
     }
     .people {
-    margin-bottom: 40px;
-    margin-top: 5px;
-    box-shadow: 0px 0px 120px -10px;
+	    margin-bottom: 40px;
+	    margin-top: 5px;
+	    box-shadow: -95px 15px 55px -9px;
     }
-
-
-	
+    .better {
+    	color: #fff;
+	    border-color: transparent;
+    }
 }
